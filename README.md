@@ -12,9 +12,10 @@ Bosen
 # Tech we have used: 
   <ul> React </ul>
   <ul> Axios </ul>
-  <ul> Router </ul>
+  <ul> Router </ul>![structure](https://user-images.githubusercontent.com/36967751/163569630-666e2b19-0495-4b1b-bb55-0cd8dd06ed14.GIF)
+
   <ul> sass </ul>
   
 <br /> 
 
-![Screen-shot](./images/structure.gif) 
+![structure](./images/structure.gif) 

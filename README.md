@@ -16,3 +16,5 @@ Bosen
   <ul> sass </ul>
   
 <br /> 
+
+![Screen-shot](./images/structure.gif) 

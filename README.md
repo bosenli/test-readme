@@ -18,4 +18,4 @@ Bosen
   
 <br /> 
 
-![structure](./images/structure.gif) 
+![structure](./images/structure.GIF) 
